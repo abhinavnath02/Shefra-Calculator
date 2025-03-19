@@ -111,7 +111,7 @@ export const FALLBACK_RATES: ExchangeRates = {
   USD: 1,
   EUR: 0.91,
   GBP: 0.78,
-  JPY: 0.0067,  // Fixed: 1 JPY = 0.0067 USD (approximately 149.83 JPY = 1 USD)
+  JPY: 149.75,  // Fixed: 1 JPY = 0.0067 USD (approximately 149.83 JPY = 1 USD)
   AUD: 1.51,
   CAD: 1.35,
   CHF: 0.87,
